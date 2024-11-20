@@ -1,0 +1,17 @@
+.Parents{
+
+    text-align: center;
+
+}
+.children{
+   
+    width: 447px;
+    height: 170px;
+    float: left;
+    text-align: center;
+}
+
+i{
+   
+   background-color: yellow;
+}
